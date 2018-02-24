@@ -1,0 +1,13 @@
+StudentID,timedate,Problem,Location,Zone,Description
+1504469,14-02-2018 00:00,Teachers,Birbhum,Zone 1,Teacher is irregular
+1504012,18-02-2018 00:00,Teachers,Birbhum,Zone 1,Teacher is irregular
+1504469,18-02-2018 00:00,Teachers,Birbhum,Zone 1,Teacher is irregular
+1507185,18-02-2018 00:00,Classrooms,Birbhum,Zone 1,Water leaking from rooftop
+1504368,18-02-2018 00:00,Washrooms,Bankura,Zone 3,unclean washrooms
+1507333,19-02-2018 00:00,Electricity or Water,Burdwan,Zone 3,fans and lights not working
+1504715,19-02-2018 00:00,Finance,Burdwan,Zone 2,"Books very bad condition, unreadable"
+1503222,19-02-2018 00:00,Teachers,Bankura,Zone 1,Teacher not coming
+1505456,19-02-2018 00:00,Classrooms,Bankura,Zone 3,Broken walls and water leaking from rooftop
+1506322,21-02-2018 00:00,Teachers,Birbhum,Zone 1,Teacher not coming everyday
+1540998,21-02-2018 00:00,Books,Burdwan,Zone 3,Books very bad
+1505226,23-02-2018 00:00,Classrooms,Bankura,Zone 2,"Too small, space problem"
