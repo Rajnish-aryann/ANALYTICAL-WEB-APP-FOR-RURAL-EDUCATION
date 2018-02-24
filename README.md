@@ -1,4 +1,9 @@
 # Rural-Development-Hackathon
+
+Hackathon Contest Link: https://www.hackerearth.com/sprints/lets-hack-for-rural-development/?utm_source=website&utm_medium=widget&utm_campaign=live-widget
+
+Explanation Video: https://www.youtube.com/watch?v=K-aMFhno7G0
+
 Two web-portals and doing data analytics to solve problems related to rural education
 Google says that major problems that hamper rural education are related to teachers, books, classrooms, etc. and often these are not solved or followed-up because solution is not provided in a constructive way.
 
